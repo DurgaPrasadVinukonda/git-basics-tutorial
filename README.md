@@ -1,14 +1,21 @@
 # git-basics-tutorial
 
-1) Here when ever we have done some changes in a file that need to be pushed then we use the command 
-git restore file name 
+1) Here when ever we have done some changes in a file that need to be pushed then we use the command   
+ ####  git restore file name   
 then all data used in the file are removed
 2) if you have doe multipile changes in mulitple files then want to undo everything 
-then use a command 
-git restore . 
+then use a command   
+####  git restore . 
 the all changes that are make in files are removed
+<<<<<<< HEAD
 3) if we want to see all git commits then 
 git log
 4) If we want to revert a commit then use 
 git revert -- commitid--
 5) yuiopdjdjfhfjgj vn
+=======
+3) if we want to see all git commits then   
+#### git log
+4) If we want to revert a commit then use   
+#### git revert -- commitid--
+>>>>>>> 564959cfadd4cfd419b849356f2b5a1e882d4150
