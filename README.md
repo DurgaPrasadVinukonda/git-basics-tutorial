@@ -11,3 +11,4 @@ the all changes that are make in files are removed
 git log
 4) If we want to revert a commit then use 
 git revert -- commitid--
+5) yuiopdjdjfhfjgj vn
